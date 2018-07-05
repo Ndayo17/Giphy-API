@@ -1,0 +1,19 @@
+{
+  "name": "giphy-api",
+  "version": "1.0.0",
+  "description": "This application uses GIPHY API to make a dynamic web page that populates with gifs of users’ choice. Users can click on the gifs to play and stop the animation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ndayo17/Giphy-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ndayo17/Giphy-API/issues"
+  },
+  "homepage": "https://github.com/Ndayo17/Giphy-API#readme"
+}
